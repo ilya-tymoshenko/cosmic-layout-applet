@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Real Keyboard Layout
+Comment=Show active keyboard layout from XKB state
+Type=Application
+Exec=cosmic-layout-applet
+Terminal=false
+Categories=COSMIC;
+Keywords=COSMIC;Applet;Keyboard;Layout;XKB;
+Icon=input-keyboard-symbolic
+StartupNotify=false
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicShrinkable=true
+X-CosmicHoverPopup=Auto
+X-OverflowPriority=10
