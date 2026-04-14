@@ -1,0 +1,1 @@
+# cosmic-layout-applet
