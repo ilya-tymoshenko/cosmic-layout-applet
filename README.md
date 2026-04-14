@@ -23,3 +23,5 @@ Install dependencies, then build with Cargo:
 
 ```bash
 cargo build --release
+
+bash scripts/install-local.sh
